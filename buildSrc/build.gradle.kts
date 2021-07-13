@@ -1,6 +1,6 @@
 plugins {
     id("java-gradle-plugin")
-    kotlin("jvm") version "1.5.0"
+    kotlin("jvm") version "1.5.21"
 }
 repositories {
     jcenter()
